@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @ReneMalingre
-- I run an Optometry practice, and foolishly write some practice software.
+- I'm learning to code from experts this year, rather than teaching myself as I usually do.
